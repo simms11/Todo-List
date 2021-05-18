@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class TodoList {
 
-    static String fileName = "C:\\alsahid.a.simms\\TodoCLI\\src\\com\\company";
+    static String fileName = "C:\\Users\\alsahid.a.simms\\Desktop\\repository\\Todo-List\\TodoList.java";
 
     public static void main(String[] args) throws IOException {
         int menuItem = -1;

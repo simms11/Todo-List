@@ -1,0 +1,2 @@
+Update laptop
+Do leetcode
